@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">QuickDraw</h1>
+ <h1 align="center">Restaurant management</h1>
 </p>
 
 
@@ -107,3 +107,6 @@ f.	Account
 <p align="center">
   <img src="demo/d_9.png" width=600><br/>
 </p>
+
+## Notes 
+C#
